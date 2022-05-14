@@ -9,12 +9,14 @@
 }
 
 header{
-    margin: 2.75rem 0rem  0rem 4.75rem;
+    margin: 2.75rem 0rem  7.1rem 4.75rem;
 }
 nav a{
-    width: 79px;
-    height: 29px;
-    padding: 8px;
+    
+    width: 79vw;
+    height: 29vh;
+    font-size: 1.5rem;
+    margin-right:1.4rem;
     font-weight: 600;
     font-style: normal;
     color: #989D9C;
@@ -24,24 +26,32 @@ nav a{
 
 nav a:hover{
     text-decoration:underline 2px solid #007BE5;
+    
 }
 
 
 nav button{
-    background: #665AE1;
-    color: #FFFFFF;
+    background: rgb(102, 90, 225);
+    color: rgb(255, 255, 255);
     border: none;
-    width: 100px;
-    height: 31px;
+    width: 8.1rem;
+    height: 2.5rem;
     border-radius: 20.5px;
-    font-size: 17px;
+    font-size: 1.5rem;
     font-weight: 600;
     cursor: pointer;
 }
 
+
+
 main img{
-    margin: 80px;
-    margin: 91px 0px 0px 95px;
+    display: inline-block;
+    Width:568px;
+    Height:500px;
+    margin-left: 7rem;
+
+
+    
 }
 
 
