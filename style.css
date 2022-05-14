@@ -11,6 +11,8 @@
 header{
     margin: 2.75rem 0rem  7.1rem 4.75rem;
 }
+
+
 nav a{
     
     width: 79vw;
@@ -68,7 +70,7 @@ section{
  h1{
     font-size: 6.5rem;
     font-weight: 900;
-    line-height: 122px;
+    line-height: 7.6rem;
     color: #515151;
   
    
@@ -77,7 +79,7 @@ section{
 
 h2{
     font-size: 3.6rem;
-    line-height: 71px;
+    line-height: 4.4rem;
     color: #515151;
     font-weight: 500;
     
@@ -88,8 +90,8 @@ p{
         font-size: 1.5rem;
         line-height: 29px;
         color: #848484;
-        width: 515px;
-        height: 87px;
+        width: 32.1rem;
+        height: 5.4rem;
         font-weight: 400;
         text-align: justify;
         margin: 32px 0px 85px 0px;
@@ -103,15 +105,15 @@ main button{
     border-radius: 20.5px;
     color: #000000;
     font-weight: 700;
-    font-size: 23px;
-    line-height: 34px;
+    font-size: 1.4rem;
+    line-height: 2.1rem;
     
-    width: 186px;
-    height: 53px;
+    width: 11.6rem;
+    height: 3.3rem;
     border: none;
     box-shadow: 0px 4px 1px #84848463;
     cursor: pointer;
-    margin-bottom: 55px;
+    margin-bottom: 3.4rem;
    
 }
 
