@@ -46,12 +46,10 @@ nav button{
 
 main img{
     display: inline-block;
-    Width:568px;
-    Height:500px;
+    Width:35.5rem;
+    Height:31.2rem;
     margin-left: 7rem;
 
-
-    
 }
 
 
@@ -61,9 +59,6 @@ main section h1{
     font-weight: 900;
     line-height: 122px;
     color: #515151;
-    position: absolute;
-    top: 149px;
-    left: 516px;
     display: inline-block; 
    
 }
@@ -73,9 +68,6 @@ main h2{
     line-height: 71px;
     color: #515151;
     font-weight: 500;
-    position: absolute;
-    top: 243px;
-    left: 511px;
     display: inline-block;
 }
 
@@ -88,9 +80,6 @@ main p{
         height: 87px;
         font-weight: 400;
         text-align: justify;
-        position: absolute;
-        top: 328px;
-        left: 508px;
         display: inline-block;
 }
 
