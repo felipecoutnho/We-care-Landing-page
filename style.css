@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
+nav{
+    margin-left: 44px;
+    margin-top: 22px;
+}
+nav a{
+    width: 79px;
+    height: 29px;
+    padding: 8px;
+    font-weight: 600;
+    font-style: normal;
+    color: #989D9C;
+    text-decoration: none;
+   
+}
+
+nav a:hover{
+    text-decoration:underline 2px solid #007BE5;
+}
+
+
+nav button{
+    background: #665AE1;
+    color: #FFFFFF;
+    border: none;
+    width: 100px;
+    height: 31px;
+    border-radius: 20.5px;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+main img{
+    margin: 80px;
+    margin: 91px 0px 0px 95px;
+}
+
+
+
+main section h1{
+    font-size: 73px;
+    font-weight: 900;
+    line-height: 122px;
+    color: #515151;
+    position: absolute;
+    top: 149px;
+    left: 516px;
+    display: inline-block; 
+   
+}
+
+main h2{
+    font-size: 44px;
+    line-height: 71px;
+    color: #515151;
+    font-weight: 500;
+    position: absolute;
+    top: 243px;
+    left: 511px;
+    display: inline-block;
+}
+
+main p{
+
+        font-size: 21px;
+        line-height: 29px;
+        color: #848484;
+        width: 450px;
+        height: 87px;
+        font-weight: 400;
+        text-align: justify;
+        position: absolute;
+        top: 328px;
+        left: 508px;
+        display: inline-block;
+}
+
+main button{
+  
+    background: #ADFF00;
+    border-radius: 20.5px;
+    color: #000000;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 34px;
+    margin: 33px;
+    width: 166px;
+    height: 43px;
+    border: none;
+    box-shadow: 0px 4px 1px #84848463;
+    cursor: pointer;
+    position: absolute;
+    top: 435px;
+    left: 473px;
+}
+
+
