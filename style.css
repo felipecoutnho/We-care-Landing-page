@@ -8,9 +8,8 @@
     font-style: normal;
 }
 
-nav{
-    margin-left: 44px;
-    margin-top: 22px;
+header{
+    margin: 2.75rem 0rem  0rem 4.75rem;
 }
 nav a{
     width: 79px;
