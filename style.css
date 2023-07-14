@@ -5,10 +5,11 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
-    font-style: normal;
+    text-decoration: none;
+    border: none;
 }
 
-header{
+/* header{
     margin: 2.75rem 0rem  7.1rem 4.75rem;
 }
 
@@ -115,6 +116,6 @@ main button{
     cursor: pointer;
     margin-bottom: 3.4rem;
    
-}
+} */
 
 
