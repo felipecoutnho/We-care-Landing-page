@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
+header{
+    margin: 2.75rem 0rem  7.1rem 4.75rem;
+}
+
+
+nav a{
+    
+    width: 79vw;
+    height: 29vh;
+    font-size: 1.5rem;
+    margin-right:1.4rem;
+    font-weight: 600;
+    font-style: normal;
+    color: #989D9C;
+    text-decoration: none;
+   
+}
+
+nav a:hover{
+    text-decoration:underline 2px solid #007BE5;
+    
+}
+
+
+nav button{
+    background: rgb(102, 90, 225);
+    color: rgb(255, 255, 255);
+    border: none;
+    width: 8.1rem;
+    height: 2.5rem;
+    border-radius: 20.5px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+
+
+
+main img{
+    display: inline-block;
+    Width:35.5rem;
+    Height:31.2rem;
+    margin-left: 7rem;
+    
+
+}
+
+section{
+    display: inline-block;
+    margin-left: 5.3rem;
+   
+    
+}
+
+
+
+
+ h1{
+    font-size: 6.5rem;
+    font-weight: 900;
+    line-height: 7.6rem;
+    color: #515151;
+  
+   
+   
+}
+
+h2{
+    font-size: 3.6rem;
+    line-height: 4.4rem;
+    color: #515151;
+    font-weight: 500;
+    
+}
+
+p{
+
+        font-size: 1.5rem;
+        line-height: 29px;
+        color: #848484;
+        width: 32.1rem;
+        height: 5.4rem;
+        font-weight: 400;
+        text-align: justify;
+        margin: 32px 0px 85px 0px;
+        display: block;
+        
+}
+
+main button{
+  
+    background: #ADFF00;
+    border-radius: 20.5px;
+    color: #000000;
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 2.1rem;
+    
+    width: 11.6rem;
+    height: 3.3rem;
+    border: none;
+    box-shadow: 0px 4px 1px #84848463;
+    cursor: pointer;
+    margin-bottom: 3.4rem;
+   
+}
+
+
