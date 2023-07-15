@@ -9,113 +9,53 @@
     border: none;
 }
 
-/* header{
-    margin: 2.75rem 0rem  7.1rem 4.75rem;
+@media (max-width:765px){
+    header{
+        display: none;
+    }
+
+    main{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+    aside img{
+        width: 90vw;
+        margin-top: 120px;
+    }
+
+    section h1{
+        font-size: 50px;
+        font-weight: 900;
+        color: #515151;
+        margin-top: 24px;
+        margin-bottom: 7px;
+    }
+
+    section h2{
+        font-size: 28px;
+        font-weight: 500;
+        margin-bottom: 17px;
+    }
+
+    section p{
+        display: none;
+    }
+
+    section button{
+        width: 239px;
+        height: 64px;
+        border-radius: 50px;
+        background-color: #ADFF00;
+        font-size: 28px;
+        color: #000000;
+        font-weight: 700;
+        box-shadow: 0px 4px 4px 0px #00000040;
+        margin-bottom: 120px;
+    }
+
+
 }
-
-
-nav a{
-    
-    width: 79vw;
-    height: 29vh;
-    font-size: 1.5rem;
-    margin-right:1.4rem;
-    font-weight: 600;
-    font-style: normal;
-    color: #989D9C;
-    text-decoration: none;
-   
-}
-
-nav a:hover{
-    text-decoration:underline 2px solid #007BE5;
-    
-}
-
-
-nav button{
-    background: rgb(102, 90, 225);
-    color: rgb(255, 255, 255);
-    border: none;
-    width: 8.1rem;
-    height: 2.5rem;
-    border-radius: 20.5px;
-    font-size: 1.5rem;
-    font-weight: 600;
-    cursor: pointer;
-}
-
-
-
-
-
-main img{
-    display: inline-block;
-    Width:35.5rem;
-    Height:31.2rem;
-    margin-left: 7rem;
-    
-
-}
-
-section{
-    display: inline-block;
-    margin-left: 5.3rem;
-   
-    
-}
-
-
-
-
- h1{
-    font-size: 6.5rem;
-    font-weight: 900;
-    line-height: 7.6rem;
-    color: #515151;
-  
-   
-   
-}
-
-h2{
-    font-size: 3.6rem;
-    line-height: 4.4rem;
-    color: #515151;
-    font-weight: 500;
-    
-}
-
-p{
-
-        font-size: 1.5rem;
-        line-height: 29px;
-        color: #848484;
-        width: 32.1rem;
-        height: 5.4rem;
-        font-weight: 400;
-        text-align: justify;
-        margin: 32px 0px 85px 0px;
-        display: block;
-        
-}
-
-main button{
-  
-    background: #ADFF00;
-    border-radius: 20.5px;
-    color: #000000;
-    font-weight: 700;
-    font-size: 1.4rem;
-    line-height: 2.1rem;
-    
-    width: 11.6rem;
-    height: 3.3rem;
-    border: none;
-    box-shadow: 0px 4px 1px #84848463;
-    cursor: pointer;
-    margin-bottom: 3.4rem;
-   
-} */
-
 
