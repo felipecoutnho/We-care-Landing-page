@@ -9,7 +9,7 @@
     border: none;
 }
 
-@media (min-width:300px) and (max-width:765px){
+@media (max-width:765px){
     header{
         display: none;
     }
@@ -57,7 +57,7 @@
     }
 }
 
-@media (min-width:768px) and (max-width:1112px){
+@media (min-width:768px) and (max-width:1113px){
     .navbar{
         display: flex;
         justify-content: center;
@@ -210,4 +210,10 @@
         box-shadow: 0px 4px 4px 0px #00000040;
     }
 }
+
+@media (min-width:1115px){
+
+    
+    }
+
 
