@@ -212,7 +212,28 @@
 }
 
 @media (min-width:1115px){
+    .navbar{
+        margin-left: 76px;
+        margin-top: 44px;
+    }
 
+    .navbar a{
+        margin-right: 23px;
+        font-size: 20px;
+        font-weight: 600;
+        color: #989D9C;
+        margin-top: 8px;
+    }
+
+    .navbar button{
+        width: 130px;
+        height: 41px;
+        border-radius: 21px;
+        font-size: 20px;
+        color: #FFFFFF;
+        font-weight: 600;
+        background-color: #665AE1;
+    }   
     
     }
 
